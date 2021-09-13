@@ -1,0 +1,30 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 100%;
+    box-sizing: border-box;
+    font-size: medium;
+    background-color:black;
+}
+
+#form {
+    color: white;
+}
+
+#footer {
+    color: blue;
+}
+
+#aboutus {
+    color: brown;
+}
+
+h1, h2 {
+    color: burlywood;
+}
+
+.header nav ul li {
+    display: inline-block;
+    float: right;
+    margin-left: 25px;
+
+}
